@@ -1,0 +1,48 @@
+unit_code,Name,LONG,LAT
+ACAD,Acadia,-68.21,44.35
+ARCH,Arches,-109.57,38.68
+BADL,Badlands,-102.5,43.75
+BIBE,Big Bend,-103.25,29.25
+BISC,Biscayne,-80.08,25.65
+BLCA,Black Canyon of the Gunnison,-107.72,38.57
+BRCA,Bryce Canyon,-112.18,37.57
+CANY,Canyonlands,-109.93,38.2
+CARE,Capitol Reef,-111.17,38.2
+CAVE,Carlsbad Caverns,-104.4,32.17
+CHIS,Channel Islands,-119.42,34.01
+CONG,Congaree,-80.78,33.78
+CRLA,Crater Lake,-122.1,42.94
+CUVA,Cuyahoga Valley,-81.55,41.24
+DEVA,Death Valley,-116.82,36.24
+DRTO,Dry Tortugas,-82.87,24.63
+EVER,Everglades,-80.93,25.32
+GLAC,Glacier,-114,48.8
+GRCA,Grand Canyon,-112.14,36.06
+GRTE,Grand Teton,-110.8,43.73
+GRBA,Great Basin,-114.3,38.98
+GRSA,Great Sand Dunes,-105.51,37.73
+GRSM,Great Smoky Mountains,-83.53,35.68
+GUMO,Guadalupe Mountains,-104.87,31.92
+HOSP,Hot Springs,-93.05,34.51
+ISRO,Isle Royale,-88.55,48.1
+JOTR,Joshua Tree,-115.9,33.79
+KICA,Kings Canyon,-118.55,36.8
+LAVO,Lassen Volcanic,-121.51,40.49
+MACA,Mammoth Cave,-86.1,37.18
+MEVE,Mesa Verde,-108.49,37.18
+MORA,Mount Rainier,-121.75,46.85
+NOCA,North Cascades,-121.2,48.7
+OLYM,Olympic,-123.5,47.97
+PEFO,Petrified Forest,-109.78,35.07
+PINN,Pinnacles,-121.16,36.48
+REDW,Redwood,-124,41.3
+ROMO,Rocky Mountain,-105.58,40.4
+SAGU,Saguaro,-110.5,32.25
+SEQU,Sequoia,-118.68,36.43
+SHEN,Shenandoah,-78.35,38.53
+THRO,Theodore Roosevelt,-103.45,46.97
+VOYA,Voyageurs,-92.88,48.5
+WICA,Wind Cave,-103.48,43.57
+YELL,Yellowstone,-110.5,44.6
+YOSE,Yosemite,-119.5,37.83
+ZION,Zion,-113.05,37.3
